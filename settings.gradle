@@ -1,0 +1,5 @@
+rootProject.name = 'spring-security-sample'
+include 'client-one'
+include 'sso-server'
+include 'client-two'
+
